@@ -1,0 +1,16 @@
+{
+  "info": {
+    "title": "EEZ",
+    "description": "EEZ stands for Exclusive Economic Zone and is a state’s sovereign waters, which extend 200 nautical miles from the coast. The EEZ layer was created using the data available from marineregions.org."
+  },
+  "header": {
+    "reports": {
+      "regions": {
+        "EEZ": {
+          "cartodbColumn": "reporting_id",
+          "format": "array"
+        }
+      }
+    }
+  }
+}
